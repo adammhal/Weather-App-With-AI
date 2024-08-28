@@ -1,0 +1,27 @@
+{
+  "configurations" : [
+    {
+      "id" : "89AD5699-040E-4982-BEED-A6CE199051E0",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "locationScenario" : {
+      "identifier" : "New York, NY, USA",
+      "referenceType" : "built-in"
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:WeatherApp.xcodeproj",
+      "identifier" : "F0BA6C2E2C3B34C200845FF7",
+      "name" : "WeatherApp"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}

@@ -1,0 +1,24 @@
+{
+  "originHash" : "b50343ce27e264adab0716dbe30f3557e716198f013cf959a94e17b4d5daa8b7",
+  "pins" : [
+    {
+      "identity" : "ssswiftuigifview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SimformSolutionsPvtLtd/SSSwiftUIGIFView.git",
+      "state" : {
+        "revision" : "bd16555ae068ec4c01f9bdb913526caa08eb30b1",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "swiftui-gif",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/globulus/swiftui-gif.git",
+      "state" : {
+        "revision" : "471d37db548e79bdd62e7702dbceaf28ea1103f9",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
