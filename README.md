@@ -9,17 +9,17 @@ This repository contains the source code for an AI-powered weather application f
 ### Real-Time Weather Data
 The app fetches and displays up-to-the-minute weather information, including temperature, humidity, precipitation, cloud cover, and wind speed. The UI is clean, intuitive, and features a dynamic background that changes with the time of day.
 
-![Real-Time Weather](images/weather-app-main.png)
+![Real-Time Weather](weather-app-main.png)
 
 ### AI-Powered Clothing Recommendations
 A standout feature of this app is its AI-driven clothing recommendation engine. Based on the current weather, the app suggests appropriate attire to ensure you're always dressed for the conditions.
 
-![AI Recommendations](images/weather-app-ai.png)
+![AI Recommendations](weather-app-ai.png)
 
 ### Detailed Weather Metrics
 For those who want more than just the temperature, the app provides a detailed breakdown of key weather metrics, all presented in a clean, easy-to-read interface.
 
-![Detailed Metrics](images/weather-app-details.png)
+![Detailed Metrics](weather-app-details.png)
 
 ---
 
